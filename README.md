@@ -79,4 +79,4 @@ Now you should be all set!
 ## Notes
 
 - This is a very primitive language model, if selecting the "Strong" and "Very Strong" strengths, often the sentences will be nonsense due to its nature.
-- Sometimes the <UNK> token will appear. This is to indicate a word that appears _only once_ throughout the text file.
+- Sometimes the UNK token will appear. This is to indicate a word that appears _only once_ throughout the text file.
