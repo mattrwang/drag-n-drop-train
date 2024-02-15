@@ -17,6 +17,7 @@ const Sentence = ({ text }: SentenceProps) => {
       borderColor="blue.300"
       bg="gray.50"
       boxShadow="sm"
+      maxWidth="800px"
     >
       {text}
     </Text>
